@@ -10,6 +10,9 @@ $p(\Delta E) = e^{-\Delta E/T}$ for $\Delta E > 0$.
 
 In general, for the classical Ising model, we use an ancilla qubit to check the energy difference between neighboring spins and use a controlled rotation gate to encode the flipping probability.
 
-For 1D case, we have the circuit as follow
+For the 1D case, we use the following circuit, which represents just one Monte Carlo sweep. In principle, we have to run this circuit several times until reaching the stationary state.
+
 <img width="468" height="364" alt="1D_circuit" src="https://github.com/user-attachments/assets/f94b30d4-ce28-441c-ada9-771cc89ff76e" />
+
+
 <img width="758" height="457" alt="2D_circuit" src="https://github.com/user-attachments/assets/6785cb79-c251-4ac4-a91e-0288791b75a2" />
