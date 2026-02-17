@@ -14,5 +14,7 @@ For the 1D case, we use the following circuit, which represents just one Monte C
 
 <img width="468" height="364" alt="1D_circuit" src="https://github.com/user-attachments/assets/f94b30d4-ce28-441c-ada9-771cc89ff76e" />
 
+For the 2D case, there are more conditions on the energy difference, so we implement different controlled gates to describe them.
+
 
 <img width="758" height="457" alt="2D_circuit" src="https://github.com/user-attachments/assets/6785cb79-c251-4ac4-a91e-0288791b75a2" />
