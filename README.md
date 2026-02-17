@@ -1,4 +1,4 @@
-# quantum metropolis monte carlo
+# Implementation of metropolis monte carlo on quantum circuit # 
 
 
 For the pure Ising model,
